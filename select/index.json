@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ワンルーム",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:14:21.796306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンルーム・シーサイド・ステップ",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_ワンルーム・シーサイド・ステップ_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワンルーム・ディスコ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/02_ワンルーム・ディスコ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Room Disco [ワンルーム・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_One_Room_Disco_[ワンルーム・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One-Room Seaside Step [ワンルーム・シーサイド・ステップ]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_One-Room_Seaside_Step_[ワンルーム・シーサイド・ステップ]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワンルーム",
+      "artist": "Izumi, Makura",
+      "has_synced": true,
+      "path": "select/05_ワンルーム_Izumi,_Makura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワンルーム",
+      "artist": "yonige",
+      "has_synced": true,
+      "path": "select/06_ワンルーム_yonige.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Room Disco [ワンルーム・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_One_Room_Disco_[ワンルーム・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワンルーム・オール・ザット・ジャズ",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/08_ワンルーム・オール・ザット・ジャズ_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ワンルーム",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/09_ワンルーム_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ワンルーム・オール・ザット・ジャズ",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/10_ワンルーム・オール・ザット・ジャズ_Rib.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンルーム",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_ワンルーム_Novelbright.txt"
+    }
+  ]
+}
